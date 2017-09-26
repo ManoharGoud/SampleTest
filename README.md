@@ -1,2 +1,2 @@
 # SampleTest
-tpo practise
+To practise git
